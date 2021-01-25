@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    // wow i can't believe that ted danson would say that!!!
+    // ted danson has fantastic hair
     
     override func viewDidLoad() {
         super.viewDidLoad()
